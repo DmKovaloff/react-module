@@ -1,3 +1,10 @@
+# HomeWork 1 
+Task1
+з апі https://dummyjson.com/docs/products копійнути руцями та вивести всі елементи зі всіма полями.
+структура компонентів наступна -
+App - Products - Product[]
+
+
 # Project location
 https://github.com/DmKovaloff/react-module.git
 
